@@ -16,7 +16,7 @@ Grab the latest version from the [**Releases**](../../releases/latest) page.
 
 | Platform | File | Notes |
 |----------|------|-------|
-| Android | Google Play | coming soon |
+| Android | [Google Play](https://play.google.com/store/apps/details?id=com.spacebox.spaceboxFull)  | v1.0.12 |
 | iOS | App Store for iPhone and iPad | coming soon |
 | macOS | App Store for Mac | coming soon |
 | Windows | `*.msix` | x64, code-signed |
